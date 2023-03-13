@@ -1,2 +1,1 @@
 # Nyan
-NyanNyanしようぜ
